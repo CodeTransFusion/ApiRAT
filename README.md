@@ -1,4 +1,4 @@
-## APIRAT: Integrating Multi-source API Knowledge for Enhanced Code Translation with LLMs
+## About
 The repository for the paper "APIRAT: Integrating Multi-source API Knowledge for Enhanced Code Translation with LLMs".
 
 ### Artifacts
@@ -9,7 +9,8 @@ All artifacts in the paper can be found in artifacts.zip. Please download the `a
 Follow the steps below to set up your environment.
 Clone this repository:
 ```
-git clone https://github.com/CodeTransFusion/ApiRAT/```
+git clone https://github.com/CodeTransFusion/ApiRAT/
+```
 
 Create a virtual environment using the following command:
 ```
