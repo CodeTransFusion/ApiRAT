@@ -1,4 +1,4 @@
-## About
+## APIRAT: Integrating Multi-source API Knowledge for Enhanced Code Translation with LLMs
 The repository for the paper "APIRAT: Integrating Multi-source API Knowledge for Enhanced Code Translation with LLMs".
 
 ### Installation
@@ -106,6 +106,4 @@ bash scripts/test_avatar.sh Python Java StarCoder reports/StarCoder 1
 bash scripts/test_avatar.sh Python Java StarCoder reports/StarCoder 1
 ```
 
-### Artifacts
 
-All artifacts in the paper can be found in artifacts.zip. Please download the `artifacts.zip` file from our [Google Drive](). After downloading, unzip the file into the repository's root directory.
