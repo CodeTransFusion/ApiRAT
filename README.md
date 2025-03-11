@@ -38,7 +38,7 @@ The datasets are organized as follows:
 4. [HCLASM]()
 5. [ApiRetrieval]()
 
-We also provide direct download of the dataset. Please download the `datasets.zip` file from our [Google Drive](). After downloading datasets.zip, unzip it into the root directory of the repository. The directory structure should look like this:
+We also provide direct download of the dataset. Please download the `datasets.zip` file from our [Google Drive](https://drive.google.com/file/d/1lVxhbHkj_Q1XU-m_wMBG0eyaQv4UKIKy). After downloading datasets.zip, unzip it into the root directory of the repository. The directory structure should look like this:
 
 
 ```
