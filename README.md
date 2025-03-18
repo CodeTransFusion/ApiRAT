@@ -106,4 +106,9 @@ bash scripts/test_avatar.sh Python Java StarCoder reports/StarCoder 1
 bash scripts/test_avatar.sh Python Java StarCoder reports/StarCoder 1
 ```
 
-
+### Artifacts
+Please download the `artifacts.zip` file from our [Google Drive](https://drive.google.com/file/d/1lVxhbHkj_Q1XU-m_wMBG0eyaQv4UKIKy). The contents of the artifacts are organized as follows:
+1. RQ1 - Results of Various Approaches for Code Translation.
+2. RQ2 - Results of Different LLMs for ApiRAT.
+3. RQ3 - Results of API Knowledge Components.
+4. RQ5 - Results of Parameter Settings.
